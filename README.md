@@ -1,2 +1,2 @@
-# DL-with-Python
-Coursera Deep Learninig Specialization
+# Deep Learning
+Coursera Deep Learninig Specialization from Coursera's founder
